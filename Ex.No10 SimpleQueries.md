@@ -36,7 +36,8 @@ food(peanuts).
 
 ### Output:
 
-![image](https://github.com/Mena-Rossini/AI_Lab_2023-24/assets/102855266/aa9e4ec8-9481-4f69-9d95-997d6c1f0d27)
+<img width="560" height="318" alt="image" src="https://github.com/user-attachments/assets/6b7477db-1c4d-4f4d-8f50-26dba3f3eb69" />
+
 
 
 ### Task 2:
@@ -59,7 +60,9 @@ course(bk301,dept(havefun)).
 
 ### Output:
 
-![image](https://github.com/Mena-Rossini/AI_Lab_2023-24/assets/102855266/4bcbb149-8176-4837-94ba-b31da9e63479)
+<img width="337" height="78" alt="image" src="https://github.com/user-attachments/assets/d1ef83fe-6d04-489f-804f-c27dfb3f5cec" />
+
+
 
 ### Task 3:
 Consider the statement <br> 
@@ -88,7 +91,7 @@ american(west).
 
 ### Output:
 
-![image](https://github.com/Mena-Rossini/AI_Lab_2023-24/assets/102855266/dbb5a88f-3abe-4a4c-bdb9-25004dc168fb)
+<img width="323" height="100" alt="image" src="https://github.com/user-attachments/assets/4ceeabcb-9db7-4f27-9e1f-85907b34ac30" />
 
 
 ### Result:
