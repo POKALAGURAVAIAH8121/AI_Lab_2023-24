@@ -85,8 +85,5 @@ Step 7: Stop the program.<br>
 
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/ddecd177-7401-49d0-9346-8fe410cc277f" />
 
-
-
-
 ### Result:
 Thus the plan was found for the initial and goal state of given problem.
